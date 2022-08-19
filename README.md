@@ -1262,6 +1262,7 @@ _Sites to read._
 - [TheServerSide.com](http://www.theserverside.com)
 - [Vanilla Java](https://vanilla-java.github.io)
 - [Voxxed](https://www.voxxed.com)
+- [JavaToDev](https://javatodev.com/)
 
 ## Thanks
 Contributions We hope you will join us
